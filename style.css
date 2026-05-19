@@ -3,8 +3,8 @@
   --bg-soft: #0a0a0a;
   --text: #ffffff;
   --text-muted: #b0b0b0;
-  --accent: #ff1f7a;
-  --accent-deep: #b81b5c;
+  --accent: #DC3389;
+  --accent-deep: #9C2150;
   --border: #1a1a1a;
 }
 
@@ -34,8 +34,7 @@ body {
   gap: 12px;
   text-decoration: none;
 }
-.logo-mark { width: 16px; height: auto; display: block; }
-.logo-word { height: 24px; width: auto; display: block; }
+.logo-word { height: 28px; width: auto; display: block; }
 
 /* Hero */
 .hero {
@@ -76,7 +75,7 @@ body {
   width: 100%;
   max-width: 280px;
   height: auto;
-  filter: drop-shadow(0 30px 80px rgba(255, 31, 122, 0.3));
+  filter: drop-shadow(0 30px 80px rgba(220, 51, 137, 0.3));
   animation: floaty 6s ease-in-out infinite;
 }
 @keyframes floaty {
@@ -99,7 +98,7 @@ body {
 }
 .cta:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(255, 31, 122, 0.35);
+  box-shadow: 0 8px 24px rgba(220, 51, 137, 0.35);
 }
 .cta-outline {
   background: transparent;

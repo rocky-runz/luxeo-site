@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 200" fill="none">
   <defs>
     <linearGradient id="luxGrad" x1="50" y1="0" x2="50" y2="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FF1F7A"/>
-      <stop offset="100%" stop-color="#B81B5C"/>
+      <stop offset="0%" stop-color="#DC3389"/>
+      <stop offset="100%" stop-color="#9C2150"/>
     </linearGradient>
   </defs>
   <polygon points="50,0 100,100 50,200 0,100" fill="url(#luxGrad)"/>
